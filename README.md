@@ -11,4 +11,4 @@ jordiNoriega/jordiNoriega is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <a href="android://settings">Configuración de Android</a>
-<a href="android://settings" target="_self">Configuración de Android</a>
+<a href="http://www.google.com" target="_self">Configuración de Android</a>
